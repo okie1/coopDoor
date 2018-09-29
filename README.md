@@ -8,7 +8,15 @@ Once I started raising chickens on my farm out in the country, I discovered how 
 
 ## Parts
 * Particle Photon
-* todo....
+* 12" Linear Actuator with internal stops
+* 2 Drawer Glides
+* 12" x 12" x 16 gauge metal
+* 12v DC power supply
+* Drok 12v to 5v converter
+* 2 relays
+* Double-Pole, Double-Throw Switch (DPDT)
+* Photocell
+* Plastic Project Box
 
 ## Circuit
 todo...
